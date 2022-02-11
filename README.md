@@ -1,5 +1,8 @@
 # Lane-Keeping-RC-Car-using-Beaglebone-Black
 
+# code and details uploaded to hackster.io
+https://www.hackster.io/wall-ee/lane-keeping-rc-car-using-beaglebone-black-0da1f3
+
 # Story 
 We made an autonomous, lane-following RC car by modifying existing Python code for use with the Beaglebone Black. We used two of the BeagleBone's PWM pins to adjust the throttle and steering of the RC car. For lane tracking, we used OpenCV to detect lane edges and adjust the trajectory of our car appropriately.
 
